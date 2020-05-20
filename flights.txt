@@ -1,0 +1,11 @@
+10
+Dallas|Austin|98|47
+Austin|Houston|95|39
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+Boston|Chicago|123|98
+Minneapolis|Dallas|250|120
+Boston|Houston|234|89
+Dallas|Boston|205|60
+Los Angeles|Houston|340|92
+Dallas|New York|239|82

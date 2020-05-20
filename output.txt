@@ -1,0 +1,43 @@
+Flight 1: Dallas, Houston (Time)
+Path 1: Dallas -> Houston. Time: 51 Cost: 101.00
+Path 2: Dallas -> Austin -> Houston. Time: 86 Cost: 193.00
+Path 3: Dallas -> Boston -> Houston. Time: 149 Cost: 439.00
+
+Flight 2: Chicago, Dallas (Cost)
+Path 1: Chicago -> Austin -> Dallas. Time: 239 Cost: 242.00
+Path 2: Chicago -> Boston -> Dallas. Time: 158 Cost: 328.00
+Path 3: Chicago -> Austin -> Houston -> Dallas. Time: 282 Cost: 340.00
+
+Flight 3: Chicago, Boston (Time)
+Path 1: Chicago -> Boston. Time: 98 Cost: 123.00
+Path 2: Chicago -> Austin -> Dallas -> Boston. Time: 299 Cost: 447.00
+Path 3: Chicago -> Austin -> Houston -> Boston. Time: 320 Cost: 473.00
+
+Flight 4: Boston, Dallas (Cost)
+Path 1: Boston -> Dallas. Time: 60 Cost: 205.00
+Path 2: Boston -> Houston -> Dallas. Time: 140 Cost: 335.00
+Path 3: Boston -> Chicago -> Austin -> Dallas. Time: 337 Cost: 365.00
+
+Flight 5: Chicago, Minneapolis (Cost)
+Path 1: Chicago -> Austin -> Dallas -> Minneapolis. Time: 359 Cost: 492.00
+Path 2: Chicago -> Boston -> Dallas -> Minneapolis. Time: 278 Cost: 578.00
+Path 3: Chicago -> Austin -> Houston -> Dallas -> Minneapolis. Time: 402 Cost: 590.00
+
+Flight 6: Los Angeles, New York (Cost)
+Path 1: Los Angeles -> Houston -> Dallas -> New York. Time: 225 Cost: 680.00
+Path 2: Los Angeles -> Houston -> Austin -> Dallas -> New York. Time: 260 Cost: 772.00
+Path 3: Los Angeles -> Houston -> Boston -> Dallas -> New York. Time: 323 Cost: 1018.00
+
+Flight 7: New York, Los Angeles (Time)
+Path 1: New York -> Dallas -> Houston -> Los Angeles. Time: 225 Cost: 680.00
+Path 2: New York -> Dallas -> Austin -> Houston -> Los Angeles. Time: 260 Cost: 772.00
+Path 3: New York -> Dallas -> Boston -> Houston -> Los Angeles. Time: 323 Cost: 1018.00
+
+Flight 8: Minneapolis, Houston (Time)
+Path 1: Minneapolis -> Dallas -> Houston. Time: 171 Cost: 351.00
+Path 2: Minneapolis -> Dallas -> Austin -> Houston. Time: 206 Cost: 443.00
+Path 3: Minneapolis -> Dallas -> Boston -> Houston. Time: 269 Cost: 689.00
+
+Flight 9: Dallas, Minneapolis (Cost)
+Path 1: Dallas -> Minneapolis. Time: 120 Cost: 250.00
+
